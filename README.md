@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @okabhishek88
-- 👀 I’m in love with creating responsive Websites & full-stack web applications with the MERN stack
+- 👀 I’m in love with creating responsive websites & full-stack web applications with the MERN stack
 - 🌱 I’m currently learning advanced React concepts and cloud deployment strategies
 - 💞️ I’m looking to collaborate on innovative projects that push the boundaries of web development
 - 📫 How to reach me: https://www.linkedin.com/in/okabhishek88/
